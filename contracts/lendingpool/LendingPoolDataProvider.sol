@@ -1,17 +1,3 @@
-/*
- * @Description: 
- * @Author: Martin
- * @Date: 2023-02-20 10:55:45
- * @LastEditors: Martin
- * @LastEditTime: 2023-05-16 14:58:45
- */
-/*
- * @Description: 
- * @Author: Martin
- * @Date: 2023-02-20 10:55:45
- * @LastEditors: Martin
- * @LastEditTime: 2023-03-15 17:27:00
- */
 //SPDX-License-Identifier:MIT
 
 pragma solidity ^0.8.9;

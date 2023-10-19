@@ -1,10 +1,3 @@
-/*
- * @Description: 
- * @Author: Martin
- * @Date: 2023-02-16 10:18:59
- * @LastEditors: Martin
- * @LastEditTime: 2023-04-13 13:31:41
- */
 //SPDX-License-Identifier:MIT
 
 pragma solidity ^0.8.9;
@@ -73,6 +66,7 @@ contract BToken is ERC20 {
     );
 
     address public underlyingAssetAddress;
+    uint8 public underlyingAssetDecimals;
 
     mapping (address => uint256) private userIndexes;
 
